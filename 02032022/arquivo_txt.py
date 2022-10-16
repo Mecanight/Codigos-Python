@@ -20,5 +20,6 @@
 arquivo = open("arquivo_txt.txt", 'w')
 for i in range(0,10):
         frase = input('Diga algo')
+        arquivo
         arquivo.write(frase+"\n")
 arquivo.close
