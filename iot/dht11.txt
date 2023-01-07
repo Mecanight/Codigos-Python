@@ -1,0 +1,28 @@
+Data          Hora         Temperatura     Humidade
+10/20/22      01:33:59     24.0ºC          82.0%
+10/20/22      01:34:04     Falha ao ler os dados do sensor
+10/20/22      01:34:08     24.0ºC          82.0%
+10/20/22      01:34:13     Falha ao ler os dados do sensor
+10/20/22      01:34:17     24.0ºC          82.0%
+10/20/22      01:34:22     Falha ao ler os dados do sensor
+Data          Hora         Temperatura     Humidade
+10/20/22      01:34:31     24.0ºC          82.0%
+10/20/22      01:34:35     24.0ºC          82.0%
+10/20/22      01:34:40     24.0ºC          82.0%
+10/20/22      01:34:44     24.0ºC          82.0%
+10/20/22      01:34:49     Falha ao ler os dados do sensor
+Data          Hora         Temperatura     Humidade
+10/20/22      01:35:18     Falha ao ler os dados do sensor
+10/20/22      01:35:22     Falha ao ler os dados do sensor
+10/20/22      01:35:27     28.0ºC          82.0%
+10/20/22      01:35:31     24.0ºC          78.0%
+10/20/22      01:35:36     26.0ºC          82.0%
+Data          Hora         Temperatura     Humidade
+10/20/22      01:47:48     26.0ºC          82.0%
+10/20/22      01:47:52     24.0ºC          83.0%
+10/20/22      01:47:57     24.0ºC          83.0%
+10/20/22      01:48:01     24.0ºC          83.0%
+Data          Hora         Temperatura     Humidade
+10/20/22      01:59:13     24.0ºC          83.0%
+10/20/22      01:59:17     24.0ºC          83.0%
+10/20/22      01:59:22     Falha ao ler os dados do sensor
